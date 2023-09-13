@@ -1,3 +1,3 @@
 # sbupgsa_constitution
 
-Copied from sbupgsa/constitution@94dd2ef
+Copied from sbupgsa/constitution@47b62ec
