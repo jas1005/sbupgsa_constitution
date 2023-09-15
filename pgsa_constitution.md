@@ -432,6 +432,7 @@ is struck from [Article IV, Section 1](#section-1-qualifications) and the paragr
 
 > Participation by alumni of the Department, as well as faculty within the Department is encouraged, but such individuals shall not constitute active members of the organization and shall not be eligible to vote during meetings of the general body.
 > Non-University members may participate, but may not: act on behalf of the organization; hold office in the organization; preside over, officiate, vote, motion, or second motions at any meeting of the organization; solicit funds on campus on behalf of the organization; work at tables or events on the campus on behalf of the organization unless an active member or SBU faculty or staff is at all times present and responsible for the activity.
+
 is substituted.
 
 ##### Section III.3: Non-Discrimination
@@ -675,7 +676,7 @@ The words &ldquo;beginning one month prior to the election, until&rdquo; are str
 
 The paragraphs
 
-> Voting shall be conducted annually during a general body meeting, as determined by the Board of Directors on a date no later than May 31<suo>st</sup> of a given year.
+> Voting shall be conducted annually during a general body meeting, as determined by the Board of Directors on a date no later than May 31<sup>st</sup> of a given year.
 > If a quorum is not met, then the Historian will conduct an electronic election within one week.
 > Voting shall be conducted by secret ballot.
 > The mechanism for deciding an election shall be determined on a case by case basis.
@@ -791,7 +792,7 @@ The words
 > These committees shall exist, even if they have no members.
 > In this case, the President will be responsible for appointing voting members to serve on these committees.
 
-are struck from the [Article VII, Section 1](#section-1-standing-committees) (formerly Section 2 of the same Article, see [Section 1 of this Amendment](#section-vi1)).
+are struck from the [Article VII, Section 1](#section-1-standing-committees) (formerly Section 2 of the same Article, see [Section 1 of this Amendment](#section-vi1-removal-of-sections-from-article-vii)).
 The paragraphs
 
 > In this case, the President will be responsible for finding active members to serve on these committees.
